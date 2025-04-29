@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(148, 212, 237);
     background-image: url("EsportsBackground.avif");
     background-size: cover;
     background-position: center;
@@ -20,7 +20,7 @@ body{
 .NavBar a {
     display: block;
     text-align: center;
-    color: rgb(62, 61, 61);
+    color: rgb(165, 162, 247);
     text-decoration: none;
     padding: 15px;
 }
@@ -67,7 +67,7 @@ body{
 
 .container2{
     width: 17%;
-    background: gray;
+    background: rgb(145, 157, 234);
     border-radius: 15px;
     position: relative;
     bottom: -13%;
@@ -86,7 +86,7 @@ body{
 }
 
 .Highlights{
-    background-color: grey;
+    background-color: rgb(230, 213, 213);
     width: 13%;
     position: relative;
     padding: 20px;
